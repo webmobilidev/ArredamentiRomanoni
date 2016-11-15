@@ -1,0 +1,37 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-custom-config": {
+            "PACKAGE_NAME": "com.designbest.arredamentiromanoni"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.designbest.arredamentiromanoni"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.designbest.arredamentiromanoni"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.designbest.arredamentiromanoni"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.designbest.arredamentiromanoni"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.designbest.arredamentiromanoni"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.designbest.arredamentiromanoni"
+        },
+        "phonegap-plugin-push": {
+            "SENDER_ID": "xxxxxx",
+            "PACKAGE_NAME": "com.designbest.arredamentiromanoni"
+        }
+    },
+    "dependent_plugins": {}
+}
